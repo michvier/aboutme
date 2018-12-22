@@ -19,14 +19,14 @@ First, download or clone the theme from the [Github repo](https://github.com/tom
 
 <div class="row">
          <div class="col-lg-12">
-             <h2 class="page-header">Knowledge Base Categories</h2>
+             <h2 class="page-header">Lectures</h2>
          </div>
          <div class="col-md-3 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-fcube fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
